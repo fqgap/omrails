@@ -1,6 +1,6 @@
 # One Month Rails
 
 This is the sample application for 
-[*One Month Rails: Teach Yourself to Code*]
+One Month Rails: Teach Yourself to Code
 
-by [Gap Supaongprapa]
+by Gap Supaongprapa
